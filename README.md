@@ -184,5 +184,3 @@ Acest proiect este potrivit pentru:
 Repository-ul demonstrează bine cum poate fi extinsă filosofia AlphaZero din zona jocurilor către o problemă inginerească reală. Dincolo de valoarea educațională, proiectul sugerează o direcție interesantă: folosirea search-ului și a rețelelor neuronale pentru probleme de optimizare combinatorială.
 
 ---
-
-Dacă folosești acest repository pentru GitHub, merită ca următorul pas să fie **refactorizarea notebook-urilor în module Python reutilizabile** și adăugarea unor exemple de rulare reproductibile.
